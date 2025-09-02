@@ -1,0 +1,41 @@
+<html>
+<head>
+<title>CounterBrowser for CS:GO</title>
+<style>
+body {
+background-color: rgb(0,0,0);
+color: rgb(255,255,255);
+font-family: Arial, sans-serif;
+}
+
+.maintxt {
+color: orange;
+font-family: Arial, sans-serif;
+}
+
+.button {
+display: inline-block;
+padding: 8px 16px;
+background-color: orange;
+color: black;
+text-decoration: none;
+border-radius: 5px;
+font-family: Arial, sans-serif;
+font-weight: bold;
+margin: 4px;
+}
+
+.button:hover {
+background-color: darkorange;
+color: white;
+}
+</style>
+</head>
+<body>
+<h1 class="maintxt">CounterBrowser</h1>
+<p>Running on CS:GO</p>
+<a class="button" href="http://google.com">Google</a>
+<a class="button" href="http://en.wikipedia.org/wiki/Main_Page">Wikipedia</a>
+<a class="button" href="http://example.com">Example.com</a>
+</body>
+</html>
