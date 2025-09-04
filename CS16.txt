@@ -7,19 +7,25 @@
 <p><font face="Arial, sans-serif" color="orange" size="5"><b>CounterBrowser</b></font></p>
 <p><font face="Arial, sans-serif" color="white">Running on CS1.6</font></p>
 
+<br><br>
+
 <table border="0" cellpadding="4" cellspacing="2" bgcolor="orange">
   <tr>
     <td align="center"><font face="Arial, sans-serif"><a href="http://google.com"><b>Google</b></a></font></td>
   </tr>
 </table>
 
-<table border="0" cellpadding="4" cellspacing="2" bgcolor="orange" style="margin-top:4px;">
+<br>
+
+<table border="0" cellpadding="4" cellspacing="2" bgcolor="orange">
   <tr>
     <td align="center"><font face="Arial, sans-serif"><a href="http://en.wikipedia.org/wiki/Main_Page"><b>Wikipedia</b></a></font></td>
   </tr>
 </table>
 
-<table border="0" cellpadding="4" cellspacing="2" bgcolor="orange" style="margin-top:4px;">
+<br>
+
+<table border="0" cellpadding="4" cellspacing="2" bgcolor="orange">
   <tr>
     <td align="center"><font face="Arial, sans-serif"><a href="http://example.com"><b>Example.com</b></a></font></td>
   </tr>
