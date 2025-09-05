@@ -1,5 +1,6 @@
 # CounterBrowser
 Browser-like MOTD for Counter-Strike <br>
+WARNING: CounterBrowser was only tested with CS:S, some features could not work in CS1.6 or CS:GO <br>
 CounterBrowser supports: <br>
 Counter-Strike 1.6 <br>
 Counter-Strike: Source <br>
