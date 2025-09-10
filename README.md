@@ -4,7 +4,7 @@ WARNING: CounterBrowser was only tested with CS:S, some features could not work 
 CounterBrowser supports: <br>
 Counter-Strike 1.6 <br>
 Counter-Strike: Source <br>
-Counter-Strike: Global Offensive <br>
+Counter-Strike: Global Offensive (Legacy) <br>
 # Setup
 Download CS_S.txt for CS:S, CSGO.txt for CS:GO or CS16.txt for CS 1.6 <br>
 Copy it to %csinstallation%/cstrike or %csinstallation%/csgo <br>
