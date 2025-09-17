@@ -13,7 +13,9 @@ Copy it to %csinstallation%/cstrike or %csinstallation%/csgo <br>
 Rename it to motd.txt <br>
 Run ```motdfile motd.txt``` or ```sv_motd motd.txt``` if needed<br>
 Run ```cl_disablehtmlmotd 0``` if needed <br>
+ <br>
 For modern CS:GO and CS2: <br>
 Navigate to source2/ <br>
 Go to csgo/ if you have modern CS:GO <br>
 Go to cs2/ if you have CS2 <br>
+Read the instructions <br>
