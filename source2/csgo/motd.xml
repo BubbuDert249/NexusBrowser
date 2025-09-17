@@ -1,0 +1,10 @@
+<root>
+    <Panel id="motdPanel" class="Panel" h="300" w="500">
+        <Label id="titleLabel" class="Label" text="CounterBrowser" />
+        <Label id="infoLabel" class="Label" text="Running on CS:GO" />
+        
+        <Button id="btnGoogle" class="Button" text="Google" onactivate="OpenURL('http://google.com');" />
+        <Button id="btnWiki" class="Button" text="Wikipedia" onactivate="OpenURL('http://en.wikipedia.org/wiki/Main_Page');" />
+        <Button id="btnExample" class="Button" text="Example.com" onactivate="OpenURL('http://example.com');" />
+    </Panel>
+</root>
