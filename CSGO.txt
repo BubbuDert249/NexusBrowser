@@ -1,6 +1,6 @@
 <html>
 <head>
-<title>CounterBrowser for CS:GO</title>
+<title>CounterBrowser for CS:GO Legacy</title>
 <style>
 body {
 background-color: rgb(0,0,0);
@@ -33,7 +33,7 @@ color: white;
 </head>
 <body>
 <h1 class="maintxt">CounterBrowser</h1>
-<p>Running on CS:GO</p>
+<p>Running on CS:GO Legacy</p>
 <a class="button" href="http://google.com">Google</a>
 <a class="button" href="http://en.wikipedia.org/wiki/Main_Page">Wikipedia</a>
 <a class="button" href="http://example.com">Example.com</a>
