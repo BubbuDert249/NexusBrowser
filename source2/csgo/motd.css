@@ -1,0 +1,34 @@
+#motdPanel {
+    background-color: rgba(0,0,0,1);
+    padding: 10px;
+    border-radius: 8px;
+}
+
+#titleLabel {
+    font-size: 24px;
+    color: orange;
+    font-family: Arial, sans-serif;
+    margin-bottom: 10px;
+}
+
+#infoLabel {
+    font-size: 18px;
+    color: white;
+    font-family: Arial, sans-serif;
+    margin-bottom: 20px;
+}
+
+.Button {
+    width: 120px;
+    height: 35px;
+    background-color: orange;
+    color: black;
+    border-radius: 5px;
+    font-weight: bold;
+    margin-right: 8px;
+}
+
+.Button:hover {
+    background-color: darkorange;
+    color: white;
+}
