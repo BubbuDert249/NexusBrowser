@@ -1,10 +1,10 @@
 <html>
 <head>
-<title>CounterBrowser for CS1.6</title>
+<title>NexusBrowser for CS1.6</title>
 </head>
 <body bgcolor="black" text="white" link="black" vlink="black" alink="white">
 
-<p><font face="Arial, sans-serif" color="orange" size="5"><b>CounterBrowser</b></font></p>
+<p><font face="Arial, sans-serif" color="orange" size="5"><b>NexusBrowser</b></font></p>
 <p><font face="Arial, sans-serif" color="white">Running on CS1.6</font></p>
 
 <br><br>
