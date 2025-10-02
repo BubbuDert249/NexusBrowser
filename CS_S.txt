@@ -1,6 +1,6 @@
 <html>
 <head>
-<title>CounterBrowser for CS:S</title>
+<title>NexusBrowser for CS:S</title>
 <style>
 body {
 background-color: rgb(0,0,0);
@@ -32,7 +32,7 @@ color: white;
 </style>
 </head>
 <body>
-<h1 class="maintxt">CounterBrowser</h1>
+<h1 class="maintxt">NexusBrowser</h1>
 <p>Running on CS:S</p>
 <a class="button" href="http://google.com">Google</a>
 <a class="button" href="http://en.wikipedia.org/wiki/Main_Page">Wikipedia</a>
